@@ -5,6 +5,8 @@ Vicente Guerrero —conocida como **Las Adjuntas**, en Padilla, Tamaulipas— a 
 de **imágenes satelitales Landsat**, validarlo contra los **registros oficiales de
 CONAGUA**, y **predecir** el comportamiento futuro del embalse.
 
+**Autora:** Elisa Torres · Proyecto de investigación en ciencia de datos.
+
 ---
 
 ## ¿Por qué estimar el volumen con satélite si CONAGUA ya lo mide?
