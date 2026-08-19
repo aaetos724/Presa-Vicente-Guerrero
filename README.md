@@ -8,19 +8,12 @@ CONAGUA**, y **predecir** el comportamiento futuro del embalse.
 
 ---
 
-## ¿Por qué estimar el volumen con satélite si CONAGUA ya lo mide?
 
 - **Detección de azolvamiento:** el sedimento reduce la capacidad real de la presa
   con los años; comparar el área satelital histórica contra el volumen registrado
   permite detectar esa pérdida, algo que la escala de la cortina no revela.
-- **Verificación independiente** de los registros oficiales.
-- **Transferibilidad:** la técnica sirve para miles de cuerpos de agua sin
-  instrumentación.
-- **Datos abiertos y reproducibles** (Landsat + CONAGUA, ambos gratuitos).
 
-> El satélite **no mide volumen**: mide el **área superficial** del agua. El proyecto
-> convierte esa área 2D en volumen 3D usando la relación empírica área–volumen
-> calibrada con los datos de CONAGUA.
+- **Datos abiertos y reproducibles** (Landsat + CONAGUA, ambos gratuitos).
 
 ---
 
