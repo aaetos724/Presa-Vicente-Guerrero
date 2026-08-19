@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+
+# Node (por si se usa localmente para GEE)
+node_modules/
+
+# Temporales
+*.tmp
+*.log
